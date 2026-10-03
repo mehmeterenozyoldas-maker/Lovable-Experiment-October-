@@ -1,0 +1,10 @@
+{
+  "name": "Remix Interactive Bouncing Ball Installation",
+  "description": "Interactive physics \u0026 generative sound installation using computer vision platform detection, pentatonic synthesizer audio, and glowing neon bouncing balls.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
